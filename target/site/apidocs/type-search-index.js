@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.ab","l":"AddAuthor"},{"p":"com.ab","l":"AddGenre"},{"p":"com.ab","l":"AddPublisher"},{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.ab","l":"Author"},{"p":"com.ab","l":"CommonDb"},{"p":"com.ab","l":"Genre"},{"p":"com.ab","l":"Publisher"},{"p":"com.ab","l":"TableAuthor"},{"p":"com.ab","l":"TableData"}]

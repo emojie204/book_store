@@ -1,0 +1,53 @@
+@options
+@packages
+-classpath
+'C:/Users/Acer/.m2/repository/mysql/mysql-connector-java/8.0.30/mysql-connector-java-8.0.30.jar;C:/Users/Acer/.m2/repository/com/google/protobuf/protobuf-java/3.19.4/protobuf-java-3.19.4.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'D:/Swing/Book_Management/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/Swing/Book_Management/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Book_Management 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'D:/Swing/Book_Management/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Book_Management 1.0-SNAPSHOT API'
+com.ab
+C:\Users\Acer\.m2\repository\mysql\mysql-connector-java\8.0.30\mysql-connector-java-8.0.30.jar = 1698894646014
+C:\Users\Acer\.m2\repository\com\google\protobuf\protobuf-java\3.19.4\protobuf-java-3.19.4.jar = 1698894660863
+D:\Swing\Book_Management\src\main\java = 1698896871044
+D:\Swing\Book_Management\target\site\apidocs\allclasses-index.html = 1700667240308
+D:\Swing\Book_Management\target\site\apidocs\allclasses.html = 1700667240315
+D:\Swing\Book_Management\target\site\apidocs\allpackages-index.html = 1700667240310
+D:\Swing\Book_Management\target\site\apidocs\constant-values.html = 1700667240251
+D:\Swing\Book_Management\target\site\apidocs\deprecated-list.html = 1700667240314
+D:\Swing\Book_Management\target\site\apidocs\element-list = 1700667240236
+D:\Swing\Book_Management\target\site\apidocs\help-doc.html = 1700667240319
+D:\Swing\Book_Management\target\site\apidocs\index-all.html = 1700667240304
+D:\Swing\Book_Management\target\site\apidocs\index.html = 1700667240316
+D:\Swing\Book_Management\target\site\apidocs\jquery-ui.overrides.css = 1700667240347
+D:\Swing\Book_Management\target\site\apidocs\member-search-index.js = 1700667240302
+D:\Swing\Book_Management\target\site\apidocs\member-search-index.zip = 1700667240303
+D:\Swing\Book_Management\target\site\apidocs\overview-tree.html = 1700667240290
+D:\Swing\Book_Management\target\site\apidocs\package-search-index.js = 1700667240298
+D:\Swing\Book_Management\target\site\apidocs\package-search-index.zip = 1700667240300
+D:\Swing\Book_Management\target\site\apidocs\script.js = 1700667240322
+D:\Swing\Book_Management\target\site\apidocs\search.js = 1700667240323
+D:\Swing\Book_Management\target\site\apidocs\serialized-form.html = 1700667240265
+D:\Swing\Book_Management\target\site\apidocs\stylesheet.css = 1700667240321
+D:\Swing\Book_Management\target\site\apidocs\type-search-index.js = 1700667240301
+D:\Swing\Book_Management\target\site\apidocs\type-search-index.zip = 1700667240302
